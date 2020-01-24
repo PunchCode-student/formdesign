@@ -1,0 +1,13 @@
+section {
+  display: grid;
+}
+
+div {
+  background: black;
+  width: 100px;
+  height: 100px;
+}
+::placeholder {
+  color: grey;
+  font-style: italic;
+}
